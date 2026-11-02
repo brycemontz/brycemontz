@@ -1,10 +1,6 @@
 Hi, my name is Bryce. I am a data science major at OSU and I have experience in statistics. I was drawn to data science because of my passion for statistics and data collection and analysis. I hope to pursue an economic of psychological career from the perspective of a data scientist.
 
-Skills that I am actively developing:
-Communication
-Teamwork
-Critical Analysis
-Technology
+I am currently working on my communication, teamwork, critical analysis, and technological skills.
 
 <!--
 **brycemontz/brycemontz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
